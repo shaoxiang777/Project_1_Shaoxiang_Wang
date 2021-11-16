@@ -4,6 +4,7 @@ You only need to run it once, and it can automatically implement neural network 
 
 train.py
 train and return .pb model
+
 test.py
 You can test accuracy trained .pb model and .tflite model. It can be run in while_pipeline.py automatically and you can also do some inference using other data on already trained model.
 Normally, the accuracy of .pb model will be higher, and the accuracy of quantized .tflite model will be slightly lower because of int8 format.
@@ -11,6 +12,7 @@ If you want to do inference on already trained model. Directly modify code line 
 
 post_training_quantization.py
 convert .pb model to quantized .tflite model.
+
 visualize_training_images.py
 Visualize training image. There are 4 categories in total. Each category occupies one line.
 
