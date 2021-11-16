@@ -1,6 +1,6 @@
 # Image_Classification
 * whole_pipeline.py
-      You only need to run it once, and it can automatically implement neural network training, testing, visualization, inference, and so on. Finally get the required model
+>You only need to run it once, and it can automatically implement neural network training, testing, visualization, inference, and so on. Finally get the required model
 
 * train.py
       train and return .pb model
