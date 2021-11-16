@@ -1,4 +1,4 @@
-# Image_Classification in Raceing Team
+# Image Classification in Raceing Team
 * whole_pipeline.py
      * You only need to run it once, and it can automatically implement neural network training, testing, visualization, inference, and so on. Finally get the required model
 
