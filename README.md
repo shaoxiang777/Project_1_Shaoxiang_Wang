@@ -1,7 +1,6 @@
 # Image_Classification
 * whole_pipeline.py
-
-You only need to run it once, and it can automatically implement neural network training, testing, visualization, inference, and so on. Finally get the required model
+  You only need to run it once, and it can automatically implement neural network training, testing, visualization, inference, and so on. Finally get the required model
 
 * train.py
 train and return .pb model
@@ -25,7 +24,7 @@ model_builder: 3 hyperparameters will be chosen automatically. [hp_alpha, hp_tra
 * visualize_nn.py
 visualize nn and save in path /home/adolf/AS-21-NeuralNet/NN/models/trained/2021-07-06-17-15
 
-utils.py
+* utils.py
 Generate logger and print the training situation on the terminal, and print the training process in the .txt file
 
 * parameters.py
