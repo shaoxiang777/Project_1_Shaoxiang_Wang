@@ -13,6 +13,7 @@
 
 * visualize_training_images.py
      * Visualize training image. There are 4 categories in total. Each category occupies one line.
+     * ![Image text](https://github.com/shaoxiang777/Image_Classification/blob/master/performance/visualize_training_images.png)
 
 * network_model.py
      * There are two functions, which are used to build model. One is MobileNet2 and another is model_builder
