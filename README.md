@@ -1,12 +1,12 @@
 # Image_Classification
 * whole_pipeline.py
->You only need to run it once, and it can automatically implement neural network training, testing, visualization, inference, and so on. Finally get the required model
+      *You only need to run it once, and it can automatically implement neural network training, testing, visualization, inference, and so on. Finally get the required model
 
 * train.py
-      >train and return .pb model
+>train and return .pb model
 
 * test.py
-      >You can test accuracy trained .pb model and .tflite model. It can be run in while_pipeline.py automatically and you can also do some inference using other data on already trained model.
+>You can test accuracy trained .pb model and .tflite model. It can be run in while_pipeline.py automatically and you can also do some inference using other data on already trained model.
 Normally, the accuracy of .pb model will be higher, and the accuracy of quantized .tflite model will be slightly lower because of int8 format.
 If you want to do inference on already trained model. Directly modify code line 104-122 
 
