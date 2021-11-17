@@ -1,4 +1,5 @@
 # Image Classification in Raceing Team
+Tools:Python, Tensorflow
 ## Directory structure
 `models`: Trained .pb model and visualization result are stored here 
 
